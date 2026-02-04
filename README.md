@@ -14,9 +14,3 @@ Beyond academics, I have actively contributed to science outreach and event coor
 - Python (NumPy, SciPy, Matplotlib, Pandas, Astropy, Finesse(ongoing))  
 - LaTeX for technical writing  
 - Git & GitHub
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrix19&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrix19&layout=compact)
-
